@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProyectoPrueba
+namespace proyectoprueba
 {
     class Program
     {
